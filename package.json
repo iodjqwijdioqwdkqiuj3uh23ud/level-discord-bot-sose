@@ -1,9 +1,9 @@
 {
   "name": "discord-level-bot",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "level-discord-bot.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node level-discord-bot.js"
   },
   "dependencies": {
     "discord.js": "^14.14.0",
